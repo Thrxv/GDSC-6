@@ -7,7 +7,7 @@ This is a forked repository from the original [GDSC](https://www.capgemini.com/i
 2. Scripts:
     - src/baseline_ast_train.py
     - src/gdsc_eval.py
-    - preprocessing.py
+    - src/preprocessing.py
 
 # Global Data Science Challenge
 ## THE BIODIVERSITY BUZZ
