@@ -1,3 +1,14 @@
+# Note
+
+This is a forked repository from the original [GDSC](https://www.capgemini.com/insights/research-library/global-data-science-challenge/) repo that I was working on together with [Tomasz Czerniawski](https://github.com/tomczer). The items that are the result of my work are:
+1. Notebooks:
+    - Tutorial 3 (only markdowns)
+    - Tutorial 4 and 5
+2. Scripts:
+    - src/baseline_ast_train.py
+    - src/gdsc_eval.py
+    - preprocessing.py
+
 # Global Data Science Challenge
 ## THE BIODIVERSITY BUZZ
 
